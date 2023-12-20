@@ -59,7 +59,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Hostel Management System"
-              description="A hostel management system automates lodging operations, managing room allocation, student details, and fee records. It simplifies administrative tasks, enhances security with check-in/check-out logs, and facilitates efficient resource allocation. This system streamlines hostel operations, ensuring seamless management and improved student accommodation experiences."
+              description="A hostel Management system automates lodging operations, managing room allocation, student details, and fee records. It simplifies administrative tasks, enhances security with check-in/check-out logs, and facilitates efficient resource allocation. This system streamlines hostel operations, ensuring seamless management and improved student accommodation experiences."
               ghLink="https://github.com/MohitLucifer/Hostel-management-System-Project.git"
               // demoLink="https://plant49-ai.herokuapp.com/"
             />
