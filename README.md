@@ -53,5 +53,5 @@ You will find all the components used and you can edit your information accordin
 
 
 
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+ netlify deployment
+https://youtu.be/sGBdp9r2GSg?si=0MSZ0qpteGL55wrl  
